@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/explosion/murmurhash/commit/58831632dab79389a5cee7715fb688ef2297ff78",
       "git:hexsha": "58831632dab79389a5cee7715fb688ef2297ff78",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T03:22:53.103917+00:00"
     },
     {
       "@id": "https://repolex.ai/r/explosion/murmurhash/commit/002fa114b4f466fb3c43320db649e8b67d8245c6",
