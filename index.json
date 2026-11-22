@@ -3,6 +3,11 @@
   "repo": "murmurhash",
   "versions": [
     {
+      "commit": "81783b67b10adfe2a031cca2a6b58ddf58ace06a",
+      "tag": "v1.1.0.dev0",
+      "parsed_at": "2026-11-22T00:48:55.937956+00:00"
+    },
+    {
       "commit": "58831632dab79389a5cee7715fb688ef2297ff78",
       "tag": "",
       "parsed_at": "2026-10-21T03:22:53.104364+00:00"
