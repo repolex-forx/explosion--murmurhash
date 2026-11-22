@@ -1,0 +1,7 @@
+[2026-11-22T00:43:55Z] === AST ITERATION 1 START | repo=explosion/murmurhash sha=81783b67 ===
+[2026-11-22T00:43:55Z] [iter=1] PHASE START: ast repo=explosion/murmurhash sha=81783b67
+[2026-11-22T00:43:55Z] [iter=1] Building AST aggregate chunks
+[2026-11-22T00:43:58Z] [iter=1] AST chunks built count=1 triples=44468
+[2026-11-22T00:43:58Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/81783b67b10adfe2a031cca2a6b58ddf58ace06a/.complete
+[2026-11-22T00:43:58Z] [iter=1] PHASE END: ast elapsed_s=3 elapsed_min=0.1
+[2026-11-22T00:43:58Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
